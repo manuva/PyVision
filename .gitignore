@@ -152,3 +152,4 @@ cython_debug/
 #.idea/
 
 .weights
+darknet-master/model/yolov3.weights
